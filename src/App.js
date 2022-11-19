@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1>welcome to the world of React Js</h1>
       <Home />
+      <p>git is a version control system</p>
     </div>
   );
 }
